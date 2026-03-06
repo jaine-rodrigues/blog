@@ -10,9 +10,6 @@ body{
 .conteiner.btn{
     text-align: center;
     top: 0;
-    display: flex;
-    justify-content: flex-end;
-    
 }
 .btn{
     padding: 10px 20px;
